@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I'm+Harsh.;A+Data+Scientist.;Nice+to+meet+you.)](https://git.io/typing-svg)
 <!--
 **harsh4277/harsh4277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
